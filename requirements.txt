@@ -1,0 +1,6 @@
+azure-identity
+azure-mgmt-monitor
+azure-mgmt-resource
+azure-mgmt-compute
+azure-mgmt-loganalytics
+pyyaml
